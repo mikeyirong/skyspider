@@ -3,6 +3,7 @@
 	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
 	<classpathentry kind="src" path="src/main/resource"/>
 	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="var" path="M2_REPO/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar" sourcepath="M2_REPO/javax/persistence/persistence-api/1.0/persistence-api-1.0-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar" sourcepath="M2_REPO/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35-sources.jar"/>
@@ -27,5 +28,7 @@
 	<classpathentry kind="var" path="M2_REPO/us/codecraft/webmagic-extension/0.6.1/webmagic-extension-0.6.1.jar"/>
 	<classpathentry kind="var" path="M2_REPO/redis/clients/jedis/2.9.0/jedis-2.9.0.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/mike/dbwrapper/1.0.0/dbwrapper-1.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/avaje/ebean/2.8.1/ebean-2.8.1.jar" sourcepath="M2_REPO/org/avaje/ebean/2.8.1/ebean-2.8.1-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

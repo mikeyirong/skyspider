@@ -1,10 +1,15 @@
 package com.skySpider;
 
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
 /**
  * 
  * @author mike_yi
  *
  */
+@Entity
+@Table(name="t_url")
 public class Url {
 	private String id;
 	private int kind;
